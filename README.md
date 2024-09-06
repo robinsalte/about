@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Gift Egwuenu</h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'am Robin!</h3>
 
 <!-- Profile Views -->
 
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about: Frontend, HTML, And of course magic food!
 
-- 📫 How to reach me: [@robinsaltee_](https://twitter.com/lauragift_)
+- 📫 How to reach me: [@robinsaltee_](https://www.instagram.com/robinsaltee/)
 
 - ⚡ Fun fact: i enjoy good food and developing and gaming with my friends! btw [check this out](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
